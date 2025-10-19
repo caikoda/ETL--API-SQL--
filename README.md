@@ -1,5 +1,6 @@
 # ETL--API-SQL--
 Python-скрипт, который обращается к API, собирает данные в pandas DataFrame, очищает и сохраняет их в базу данных PostgreSQL / ClickHouse. Используемые инструменты: Python, requests, pandas, SQLAlchemy.
+
 ETL: API → pandas → SQL (PostgreSQL / ClickHouse)
 
 Готовый мини‑проект, демонстрирующий путь данных **из внешнего API** в **SQL‑базу** через Python:
